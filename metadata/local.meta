@@ -1,0 +1,5 @@
+[lookups]
+access = read : [ * ], write : [ admin, ess_analyst ]
+export = system
+version = 8.2.1
+modtime = 1677281595.347657000
